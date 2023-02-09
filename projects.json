@@ -8,5 +8,15 @@
 		"description": "Lorem ipsum dolor",
 		"date": "2023-01-07",
 		"tags": ["foo"]
+	},
+	{
+		"type": "repo",
+		"id": "example-id-2",
+		"title": "Example title 2",
+		"author": "John Doe",
+		"url": "https://1password.com",
+		"description": "Lorem ipsum dolor",
+		"date": "2023-01-10",
+		"tags": ["bar"]
 	}
 ]

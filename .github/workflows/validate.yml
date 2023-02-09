@@ -7,7 +7,16 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code
+      - name: Check out main branch
+        uses: actions/checkout@v3
+        with:
+          ref: jh/workflow-test
+
+      - name: Store projects from main
+        id: projects-main
+        run: echo "data=$(cat projects.json | jq -c)" >> $GITHUB_OUTPUT
+
+      - name: Return to PR branch
         uses: actions/checkout@v3
 
       - name: Set up Go
@@ -17,3 +26,6 @@ jobs:
 
       - name: Run validation script
         run: go run validate.go
+        env:
+          MAIN_PROJECTS_DATA: ${{ steps.projects-main.outputs.data }}
+          CURRENT_BRANCH: ${{ github.head_ref || github.ref_name }}
