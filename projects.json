@@ -1,0 +1,12 @@
+[
+	{
+		"type": "foo",
+		"id": "example-id",
+		"title": "Example title",
+		"author": "John Doe",
+		"url": "https://www.com",
+		"description": "Lorem ipsum dolor",
+		"date": "2023-01-07",
+		"tags": ["foo"]
+	}
+]
