@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"category": "article",
+		"id": "sickle-1password-meets-git",
+		"title": "1Password Meets Git",
+		"author": "Simon Sickle",
+		"url": "https://blog.simonsickle.com/1password-meets-git",
+		"description": "Securing your life in a digital safe deposit box",
+		"date": "2022-09-15",
+		"tags": ["git", "ssh"]
+	}
+]
