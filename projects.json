@@ -8,5 +8,269 @@
 		"description": "Securing your life in a digital safe deposit box",
 		"date": "2022-09-15",
 		"tags": ["git", "ssh"]
+	},
+	{
+		"category": "article",
+		"id": "findlay-1password-feature-for-developers",
+		"title": "The Awesome New 1Password Feature for Developers to Secure and Manage Your Secrets",
+		"author": "Louise Findlay",
+		"url": "https://levelup.gitconnected.com/the-awesome-new-1password-feature-for-developers-to-secure-and-manage-your-secrets-b583e47e8693",
+		"description": "How 1Password secrets automation will help secure, update & sync your developer secrets",
+		"date": "2022-07-12",
+		"tags": ["ide", "vs code", "secret reference", "remote"]
+	},
+	{
+		"category": "article",
+		"id": "gutmann-ssh-keys-1password",
+		"title": "SSH key management with 1Password",
+		"author": "Horst Gutmann",
+		"url": "https://zerokspot.com/weblog/2022/07/24/ssh-keys-1password/",
+		"date": "2022-07-24",
+		"tags": ["ssh"]
+	},
+	{
+		"category": "article",
+		"id": "boult-cli-for-secrets",
+		"title": "Using 1Password CLI for secrets locally",
+		"author": "Sean Boult",
+		"url": "https://dev.to/hacksore/using-1password-cli-for-secrets-locally-326e",
+		"description": "Secrets are the backbone of how developers work in today's data-driven and service world.",
+		"date": "2022-06-09",
+		"tags": ["cli", "secret reference", "env"]
+	},
+	{
+		"category": "article",
+		"id": "mainwaring-share-local-secrets",
+		"title": "How to use 1Password to share local secrets",
+		"author": "Joe Mainwaring",
+		"url": "https://dev.to/theaccordance/how-to-use-1password-to-share-local-secrets-434d",
+		"date": "2022-09-22",
+		"tags": ["cli", "secret reference", "env"]
+	},
+	{
+		"category": "article",
+		"id": "belyamani-api-calls-with-ruby",
+		"title": "Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI",
+		"author": "Moncef Belyamani",
+		"url": "https://dev.to/monfresh/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli-2ge5",
+		"date": "2022-09-07",
+		"tags": ["automation", "ruby", "cli", "github", "keyboard maestro"]
+	},
+	{
+		"category": "article",
+		"id": "sanchez-ssh-agent-in-wsl",
+		"title": "Use 1Password SSH Agent in WSL",
+		"author": "David Sánchez",
+		"url": "https://dev.to/d4vsanchez/use-1password-ssh-agent-in-wsl-2j6m",
+		"description": "You can use 1Password's SSH Agent in WSL, and it's not that complicated.",
+		"date": "2022-11-06",
+		"tags": ["ssh", "wsl", "windows"]
+	},
+	{
+		"category": "article",
+		"id": "tinkerwell-ssh-agent",
+		"title": "How to set up the 1Password SSH agent for secure SSH connections",
+		"author": "Tinkerwell",
+		"url": "https://tinkerwell.app/blog/how-to-set-up-the-1password-ssh-agent-for-secure-ssh-connections",
+		"description": "Make sure that no application can grab your private SSH key and share it with someone else who then has access to all your servers.",
+		"date": "2022-11-25",
+		"tags": ["ssh"]
+	},
+	{
+		"category": "article",
+		"id": "hand-github-ssh-keys-on-windows",
+		"title": "1Password & Github SSH Keys on Windows",
+		"author": "Randall Hand",
+		"url": "https://www.yeraze.com/post/1password-github-ssh-keys-on-windows",
+		"description": "The most recent version of 1Password from Agilebits had added some great new features, and one I particularly love is SSH Keys.",
+		"date": "2022-11-25",
+		"tags": ["ssh", "windows", "github"]
+	},
+	{
+		"category": "article",
+		"id": "dellavecchia-authenticate-the-twilio-cli",
+		"title": "Use Your Fingerprint with 1Password to Authenticate the Twilio CLI",
+		"author": "Anthony Dellavecchia",
+		"url": "https://dev.to/anthonyjdella/use-your-fingerprint-with-1password-to-authenticate-the-twilio-cli-343j",
+		"description": "I'd like to highlight a 1Password Shell Plugin that makes authentication with the Twilio CLI as easy as scanning your fingerprint.",
+		"date": "2022-12-08",
+		"tags": ["shell-plugin", "twilio"]
+	},
+	{
+		"category": "article",
+		"id": "armstrong-gitlab-cli",
+		"title": "Put `glab` at your fingertips with the GitLab CLI",
+		"author": "Kai Armstrong",
+		"url": "https://about.gitlab.com/blog/2022/12/07/introducing-the-gitlab-cli/",
+		"description": "We want to integrate GitLab with the tools our developers already use and love.",
+		"date": "2022-12-07",
+		"tags": ["shell-plugin", "gitlab"]
+	},
+	{
+		"category": "repo",
+		"id": "mrjones2014-op-nvim",
+		"title": "op.nvim",
+		"author": "mrjones2014",
+		"url": "https://github.com/mrjones2014/op.nvim",
+		"description": "1Password for Neovim! Built using the 1Password CLI, Go, and Lua.",
+		"tags": ["ide", "cli", "neovim", "lua", "go"]
+	},
+	{
+		"category": "repo",
+		"id": "workloads-workspaces",
+		"title": "workspaces",
+		"author": "workloads",
+		"url": "https://github.com/workloads/workspaces",
+		"description": "Terraform-managed Terraform Cloud (TFC) Workspaces.",
+		"tags": ["terraform", "hashicorp", "cli"]
+	},
+	{
+		"category": "repo",
+		"id": "amadotejada-unopass",
+		"title": "unopass",
+		"author": "amadotejada",
+		"url": "https://github.com/amadotejada/unopass",
+		"description": "A convenient Python module that allows you to retrieve secrets from the 1Password CLI.",
+		"tags": ["python", "cli"]
+	},
+	{
+		"category": "repo",
+		"id": "twpayne-chezmoi",
+		"title": "chezmoi",
+		"author": "twpayne",
+		"url": "https://github.com/twpayne/chezmoi",
+		"description": "Manage your dotfiles across multiple diverse machines, securely.",
+		"tags": ["dotfiles", "cli", "windows", "macos", "linux"]
+	},
+	{
+		"category": "repo",
+		"id": "jscarle-onepassword-net",
+		"title": "OnePassword.NET",
+		"author": "jscarle",
+		"url": "https://github.com/jscarle/OnePassword.NET",
+		"description": "A .NET wrapper for the 1Password command-line tool op.exe.",
+		"tags": ["csharp", "c#", "cli", "dotnet", ".net"]
+	},
+	{
+		"category": "repo",
+		"id": "zcutlip-pyonepassword",
+		"title": "pyonepassword",
+		"author": "zcutlip",
+		"url": "https://github.com/zcutlip/pyonepassword",
+		"description": "A Python API to query a 1Password account using the 'op' command-line tool.",
+		"tags": ["python", "cli"]
+	},
+	{
+		"category": "repo",
+		"id": "chrisns-kubectl-passman",
+		"title": "kubectl-passman",
+		"author": "chrisns",
+		"url": "https://github.com/chrisns/kubectl-passman",
+		"description": "kubectl plugin that provides the missing link/glue between common password managers and kubectl.",
+		"tags": ["kubectl", "cli", "kubernetes", "go"]
+	},
+	{
+		"category": "repo",
+		"id": "anasinnyk-terraform-provider-onepassword",
+		"title": "terraform-provider-onepassword",
+		"author": "anasinnyk",
+		"url": "https://github.com/anasinnyk/terraform-provider-onepassword",
+		"description": "Terraform provider for 1Password.",
+		"tags": ["terraform", "cli", "go"]
+	},
+	{
+		"category": "repo",
+		"id": "tymscar-runelite-1password-plugin",
+		"title": "runelite-1password-plugin",
+		"author": "tymscar",
+		"url": "https://github.com/tymscar/runelite-1password-plugin",
+		"description": "A plugin that lets you automatically login into your Runescape account in Runelite! ",
+		"tags": ["runelite", "cli"]
+	},
+	{
+		"category": "repo",
+		"id": "yardnsm-tmux-1password",
+		"title": "tmux-1password",
+		"author": "yardnsm",
+		"url": "https://github.com/yardnsm/tmux-1password",
+		"description": "Access your 1Password login items within tmux!",
+		"tags": ["tmux", "cli", "jq"]
+	},
+	{
+		"category": "repo",
+		"id": "alexanderflink-envop",
+		"title": "envop",
+		"author": "alexanderflink",
+		"url": "https://github.com/alexanderflink/envop",
+		"description": "A CLI for syncing environment variables using 1Password.",
+		"tags": ["rust", "cli", "npm"]
+	},
+	{
+		"category": "repo",
+		"id": "jjorissen52-env-vault",
+		"title": "env-vault",
+		"author": "jjorissen52",
+		"url": "https://github.com/jjorissen52/env-vault",
+		"description": "Synchronize your local environment from a secrets vault.",
+		"tags": ["env", "cli", "npm", "macos", "linux", "categoryscript"]
+	},
+	{
+		"category": "repo",
+		"id": "shyim-idea-1password",
+		"title": "idea-1password",
+		"author": "shyim",
+		"url": "https://github.com/shyim/idea-1password",
+		"description": "Integrate 1Password into Intellij-based IDEs.",
+		"tags": ["ide", "cli", "kotlin"]
+	},
+	{
+		"category": "video",
+		"id": "hashitalks-bootstrapping-terraform",
+		"title": "Bootstrapping Terraform Secrets with 1Password CLI",
+		"author": "HashiCorp",
+		"url": "https://www.youtube.com/watch?v=fL3QDWJTTOg",
+		"description": "In this talk, we'll explore how to use 1Password CLI to bootstrap secrets for tools such as Terraform.",
+		"date": "2022-12-13",
+		"tags": ["terraform", "hashicorp"]
+	},
+	{
+		"category": "video",
+		"id": "ssh-agent-demo",
+		"title": "1Password Developer Tools: SSH Agent Demo",
+		"author": "1Password",
+		"url": "https://vimeo.com/686844942",
+		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
+		"date": "2022-03-10",
+		"tags": ["ssh"]
+	},
+	{
+		"category": "video",
+		"id": "cli-2-demo",
+		"title": "1Password Developer Tools: CLI 2.0 Demo",
+		"author": "1Password",
+		"url": "https://vimeo.com/686845596",
+		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
+		"date": "2022-03-10",
+		"tags": ["cli"]
+	},
+	{
+		"category": "video",
+		"id": "gitpod-commit-signing",
+		"title": "Community Office Hours: Git Signing Commits with 1Password",
+		"author": "GitPod",
+		"url": "https://www.youtube.com/watch?v=u2aCOtMqtc4",
+		"description": "In this Gitpod Community Office Hours, 1Password Developer Floris van der Grinten talks about using 1Password to sign Git commits",
+		"date": "2022-11-17",
+		"tags": ["git", "ssh"]
+	},
+	{
+		"category": "video",
+		"id": "short-commit-env-secrets",
+		"title": "Short: Commit your .env secrets to GitHub",
+		"author": "Chris Biscardi",
+		"url": "https://www.youtube.com/shorts/t3pZyyj3OUE",
+		"description": "In this Short, Chris shows us how to store and access your secrets using secret references.",
+		"date": "2023-01-07",
+		"tags": ["secret reference", "env"]
 	}
 ]
