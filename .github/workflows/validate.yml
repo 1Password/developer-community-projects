@@ -1,0 +1,38 @@
+name: Validate Projects Data
+
+on: 
+  schedule:
+    # Every second Monday at 12:00 AM UTC
+    - cron:  '0 0 * * 1/2'
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Store projects from main
+        id: projects-main
+        run: echo "data=$(cat projects.json | jq -c)" >> $GITHUB_OUTPUT
+
+      - name: Return to PR branch
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: 1.19
+
+      - name: Run validation script
+        run: go run validate.go
+        env:
+          MAIN_PROJECTS_DATA: ${{ steps.projects-main.outputs.data }}
+          CURRENT_BRANCH: ${{ github.head_ref || github.ref_name }}
