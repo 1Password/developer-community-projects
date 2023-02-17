@@ -1,5 +1,5 @@
 # developer-community-projects
 
-A collection of projects contributed by our developer community
+A collection of projects contributed by the [1Password Developer Community](https://developer.1password.com/community).
 
-https://developer.1password.com/
+**We aren't yet accepting submissions. Please check back later!**
