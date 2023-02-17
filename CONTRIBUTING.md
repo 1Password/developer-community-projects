@@ -13,7 +13,7 @@ If the project is a repository, it should be open source. If it's an article or 
 
 ## Steps to submit a project
 
-📝 [Open a Pull Request with the "New Project" template.](https://github.com/1Password/developer-community-projects/pulls/new/choose)
+📝 Open a [new Pull Request](https://github.com/1Password/developer-community-projects/compare) using the [default template](https://github.com/1Password/developer-community-projects/blob/main/.github/pull_request_template.md) provided.
 
 Your PR needs to include an update to the `projects.json` file to add a new object. The new object must adhere to the following criteria:
 
