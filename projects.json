@@ -272,5 +272,15 @@
 		"description": "In this Short, Chris shows us how to store and access your secrets using secret references.",
 		"date": "2023-01-07",
 		"tags": ["secret reference", "env"]
+	},
+	{
+		"category": "article",
+		"id": "tratnayake-how-to-securely-work-wth-secrets-during-development",
+		"title": "How-To Securely Work With Secrets During Development",
+		"author": "Thilina Ratnayake",
+		"url": "https://tratnayake.dev/how-to-securely-work-with-secrets-during-development",
+		"description": "Incorporating the features of enterprise-grade secret management systems into local development processes.",
+		"date": "2023-02-27",
+		"tags": ["secret reference", "env", "cli", "dotfiles"]
 	}
 ]
