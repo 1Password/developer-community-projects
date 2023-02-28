@@ -2,4 +2,4 @@
 
 A collection of projects contributed by the [1Password Developer Community](https://developer.1password.com/community).
 
-**We aren't yet accepting submissions. Please check back later!**
+👨‍💻 **Want to add your project?** Check out the [contributing documentation](./CONTRIBUTING.md)!
