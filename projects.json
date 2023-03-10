@@ -257,7 +257,7 @@
 		"category": "video",
 		"id": "gitpod-commit-signing",
 		"title": "Community Office Hours: Git Signing Commits with 1Password",
-		"author": "GitPod",
+		"author": "Gitpod",
 		"url": "https://www.youtube.com/watch?v=u2aCOtMqtc4",
 		"description": "In this Gitpod Community Office Hours, 1Password Developer Floris van der Grinten talks about using 1Password to sign Git commits",
 		"date": "2022-11-17",
