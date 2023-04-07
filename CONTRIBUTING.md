@@ -4,7 +4,6 @@ Have you created something using 1Password's Developer Tools? We'd love to hear 
 
 ## What can be submitted?
 
-We're looking for **repositories** for tools, apps, and other integrations, **articles** or blog posts, or **videos**.
 We're looking for **repositories** for tools, apps, and other integrations, **articles** or blog posts, or **videos** to help the community.
 
 If the project is a repository, it should be open source. If it's an article or video, it should be public - no unlisted or paywalled content.
