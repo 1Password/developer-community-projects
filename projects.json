@@ -282,5 +282,14 @@
 		"description": "Incorporating the features of enterprise-grade secret management systems into local development processes.",
 		"date": "2023-02-27",
 		"tags": ["secret reference", "env", "cli", "dotfiles"]
-	}
+	},
+	{
+		"category": "repo",
+		"id": "1password-alfred-workflow",
+		"title": "1Password Alfred Workflow",
+		"author": "Alfred Team",
+		"url": "https://github.com/alfredapp/1password-workflow/",
+		"description": "Search and open 1Password items with Alfred",
+		"tags": ["alfred", "cli", "macos", "search"]
+	},
 ]
