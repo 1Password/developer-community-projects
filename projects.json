@@ -285,11 +285,30 @@
 	},
 	{
 		"category": "repo",
+		"id": "op-connect-sdk-java",
+		"title": "1Password Connect Java SDK",
+		"author": "Rohan Nagar",
+		"url": "https://github.com/RohanNagar/op-connect-sdk-java",
+		"description": "An unofficial Java SDK for 1Password Connect.",
+		"tags": ["connect", "java", "sdk", "library"]
+	},
+	{
+		"category": "article",
+		"id": "securing-your-homelab-ssh-access-secrets-management-yubikeys-alevski",
+		"title": "Securing Your Homelab: SSH Access and Secrets Management with 1Password, Yubikeys, and Ansible",
+		"author": "Lenin Alevski",
+		"url": "https://www.linkedin.com/pulse/securing-your-homelab-ssh-access-secrets-management-yubikeys-alevski/",
+		"description": "In this article I show the power of combining 1Password, Yubikeys and ansible for securing SSH access and managing secrets. Although this solution was implemented as a homelab project, it is 100% applicable to startups and small companies.",
+		"date": "2023-03-28",
+		"tags": ["automation", "cli", "linux", "secret reference"]
+	},
+	{
+		"category": "repo",
 		"id": "1password-alfred-workflow",
 		"title": "1Password Alfred Workflow",
 		"author": "Alfred Team",
 		"url": "https://github.com/alfredapp/1password-workflow/",
 		"description": "Search and open 1Password items with Alfred",
 		"tags": ["alfred", "cli", "macos", "search"]
-	},
+	}
 ]
