@@ -283,7 +283,7 @@
 		"date": "2023-02-27",
 		"tags": ["secret reference", "env", "cli", "dotfiles"]
 	},
-  {
+	{
 		"category": "repo",
 		"id": "op-connect-sdk-java",
 		"title": "1Password Connect Java SDK",
