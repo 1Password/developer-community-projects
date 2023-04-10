@@ -282,5 +282,14 @@
 		"description": "Incorporating the features of enterprise-grade secret management systems into local development processes.",
 		"date": "2023-02-27",
 		"tags": ["secret reference", "env", "cli", "dotfiles"]
+	},
+	{
+		"category": "repo",
+		"id": "op-connect-sdk-java",
+		"title": "1Password Connect Java SDK",
+		"author": "Rohan Nagar",
+		"url": "https://github.com/RohanNagar/op-connect-sdk-java",
+		"description": "An unofficial Java SDK for 1Password Connect.",
+		"tags": ["connect", "java", "sdk", "library"]
 	}
 ]
