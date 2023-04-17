@@ -310,5 +310,14 @@
 		"url": "https://github.com/alfredapp/1password-workflow/",
 		"description": "Search and open 1Password items with Alfred",
 		"tags": ["alfred", "cli", "macos", "search"]
+	},
+	{
+		"category": "repo",
+		"id": "git-credential-1password",
+		"title": "1Password Git Credential Helper",
+		"author": "develerik",
+		"url": "https://github.com/develerik/git-credential-1password",
+		"description": "Credential helper to store git credentials inside 1Password",
+		"tags": ["cli", "git", "go"]
 	}
 ]
