@@ -319,5 +319,14 @@
 		"url": "https://github.com/develerik/git-credential-1password",
 		"description": "Credential helper to store git credentials inside 1Password",
 		"tags": ["cli", "git", "go"]
+	},
+	{
+		"category": "repo",
+		"id": "lade",
+		"title": "Lade",
+		"author": "zifeo",
+		"url": "https://github.com/zifeo/lade",
+		"description": "Automatically load secrets from your preferred vault as environment variables, and clear them once your shell command is over.",
+		"tags": ["cli", "shell", "env"]
 	}
 ]
