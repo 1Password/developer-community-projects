@@ -328,5 +328,14 @@
 		"url": "https://github.com/zifeo/lade",
 		"description": "Automatically load secrets from your preferred vault as environment variables, and clear them once your shell command is over.",
 		"tags": ["cli", "shell", "env"]
+	},
+	{
+		"category": "repo",
+		"id": "inserindo-segredos-com-o-1Password",
+		"title": "Inserindo Segredos com o 1Password",
+		"author": "guilhermedea",
+		"url": "https://github.com/guilhermedea/inserindo-segredos-com-o-1Password",
+		"description": "Guia básico em Português de como inserir segredos no código utilizando o 1Password",
+		"tags": ["automation", "cli", "visual studio code", "secret reference"]
 	}
 ]
