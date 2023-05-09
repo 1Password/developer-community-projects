@@ -337,5 +337,14 @@
 		"url": "https://github.com/guilhermedea/inserindo-segredos-com-o-1Password",
 		"description": "Guia básico em Português de como inserir segredos no código utilizando o 1Password",
 		"tags": ["automation", "cli", "visual studio code", "secret reference"]
+	},
+    {
+		"category": "repo",
+		"id": "beeemT-1Password-aarch64",
+		"title": "1Password AARCH64",
+		"author": "beeemT",
+		"url": "https://github.com/beeemT/1Password-aarch64",
+		"description": "1Password for Linux Apple Silicon",
+		"tags": ["1Password", "AARCH64", "ARM64", "Apple Silicon"]
 	}
 ]
