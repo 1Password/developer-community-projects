@@ -337,5 +337,14 @@
 		"url": "https://github.com/guilhermedea/inserindo-segredos-com-o-1Password",
 		"description": "Guia básico em Português de como inserir segredos no código utilizando o 1Password",
 		"tags": ["automation", "cli", "visual studio code", "secret reference"]
+	},
+	{
+		"category": "repo",
+		"id": "ricardbejarano-go-onepassword",
+		"title": "1Password Golang SDK",
+		"author": "Ricard Bejarano",
+		"url": "https://github.com/ricardbejarano/go-onepassword",
+		"description": "Access 1Password from Golang code - no Connect server required",
+		"tags": ["sdk", "go", "library", "cli"]
 	}
 ]
