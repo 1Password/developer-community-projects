@@ -338,7 +338,25 @@
 		"description": "Guia básico em Português de como inserir segredos no código utilizando o 1Password",
 		"tags": ["automation", "cli", "visual studio code", "secret reference"]
 	},
-    {
+	{
+		"category": "repo",
+		"id": "ricardbejarano-go-onepassword",
+		"title": "1Password Golang SDK",
+		"author": "Ricard Bejarano",
+		"url": "https://github.com/ricardbejarano/go-onepassword",
+		"description": "Access 1Password from Golang code - no Connect server required",
+		"tags": ["sdk", "go", "library", "cli"]
+	},
+  {
+		"category": "repo",
+		"id": "secrets-store-csi-driver-provider-1password",
+		"title": "1Password Provider for Secret Store CSI Driver",
+		"author": "meisterlabs",
+		"url": "https://github.com/MeisterLabs/secrets-store-csi-driver-provider-1password",
+		"description": "Driver for retreiving 1password secrets using the secrets-store-csi interface for kubernetes, allowing mounting of 1password secrets in kubernetes pods",
+		"tags": ["automation", "connect", "kubernetes", "go"]
+  },
+  {
 		"category": "repo",
 		"id": "beeemT-1Password-aarch64",
 		"title": "1Password AARCH64",
