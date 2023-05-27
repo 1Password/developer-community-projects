@@ -347,7 +347,7 @@
 		"description": "Access 1Password from Golang code - no Connect server required",
 		"tags": ["sdk", "go", "library", "cli"]
 	},
-  {
+  	{
 		"category": "repo",
 		"id": "secrets-store-csi-driver-provider-1password",
 		"title": "1Password Provider for Secret Store CSI Driver",
@@ -355,5 +355,14 @@
 		"url": "https://github.com/MeisterLabs/secrets-store-csi-driver-provider-1password",
 		"description": "Driver for retreiving 1password secrets using the secrets-store-csi interface for kubernetes, allowing mounting of 1password secrets in kubernetes pods",
 		"tags": ["automation", "connect", "kubernetes", "go"]
-  }
+  	},
+  	{
+		"category": "repo",
+		"id": "mx-rob-git-nidito-joao",
+		"title": "joão",
+		"author": "Roberto Hidalgo",
+		"url": "https://github.com/unRob/joao",
+		"description": "A command-line configuration manager that keeps entries encoded as YAML in the filesystem, backed up to 1Password; syncs scrubbed copies to git and robots consume entries via 1Password Connect + Vault. ",
+		"tags": ["automation", "cli", "connect", "hashicorp", "vault", "go"]
+  	}
 ]
