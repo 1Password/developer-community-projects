@@ -362,7 +362,7 @@
 		"title": "joão",
 		"author": "Roberto Hidalgo",
 		"url": "https://github.com/unRob/joao",
-		"description": "A command-line configuration manager that keeps entries encoded as YAML in the filesystem, backed up to 1Password; syncs scrubbed copies to git and robots consume entries via 1Password Connect + Vault. ",
+		"description": "A command-line configuration manager that keeps entries encoded as YAML in the filesystem, backed up to 1Password; syncs scrubbed copies to git and robots consume entries via 1Password Connect + Vault.",
 		"tags": ["automation", "cli", "connect", "hashicorp", "vault", "go"]
   	}
 ]
