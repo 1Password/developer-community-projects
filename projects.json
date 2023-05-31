@@ -108,6 +108,15 @@
 	},
 	{
 		"category": "repo",
+		"id": "stevelr-age-op",
+		"title": "age-op",
+		"author": "stevelr",
+		"url": "https://github.com/stevelr/age-op",
+		"description": "Simple CLI encryption without the footguns: age + 1Password",
+		"tags": ["cli", "backups", "encryption"]
+	},
+	{
+		"category": "repo",
 		"id": "mrjones2014-op-nvim",
 		"title": "op.nvim",
 		"author": "mrjones2014",
