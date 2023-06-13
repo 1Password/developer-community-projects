@@ -364,5 +364,15 @@
 		"url": "https://github.com/unRob/joao",
 		"description": "A command-line configuration manager that keeps entries encoded as YAML in the filesystem, backed up to 1Password; syncs scrubbed copies to git and robots consume entries via 1Password Connect + Vault.",
 		"tags": ["automation", "cli", "connect", "hashicorp", "vault", "go"]
+	},
+	{
+		"category": "article",
+		"id": "cleanup-incorrect-and-duplicates-in-a-1password-account-using-cli",
+		"title": "Cleaning up incorrect and duplicates in a 1password account using its CLI",
+		"author": "Saeed Esmaili",
+		"url": "https://saeedesmaili.com/delete-unwanted-and-duplicated-items-on-1password/",
+		"description": "A simple guide to clean up a 1Password account by removing incorrect records and duplicates using bash scripting.",
+		"date": "2023-06-09",
+		"tags": ["automation", "cli", "mac", "cleanup", "bash"]
 	}
 ]
