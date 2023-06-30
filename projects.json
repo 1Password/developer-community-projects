@@ -374,5 +374,14 @@
 		"description": "A simple guide to clean up a 1Password account by removing incorrect records and duplicates using bash scripting.",
 		"date": "2023-06-09",
 		"tags": ["automation", "cli", "mac", "cleanup", "bash"]
+	},
+	{
+		"category": "repo",
+		"id": "smartwasteapp",
+		"title": "smartwasteapp",
+		"author": "Brodie Nguyen",
+		"url": "https://github.com/brodienguyen/smartwasteapp",
+		"description": "A waste management mobile app which is utilised by the user to contribute towards recyclable waste.",
+		"tags": ["mobile app", "flutter", "dart", "waste reduction", "protect our world"]
 	}
 ]
