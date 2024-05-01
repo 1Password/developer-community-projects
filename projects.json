@@ -163,6 +163,7 @@
 		"author": "zcutlip",
 		"url": "https://github.com/zcutlip/pyonepassword",
 		"description": "A Python API to query a 1Password account using the 'op' command-line tool.",
+		"date": "2019-08-07",
 		"tags": ["python", "cli"]
 	},
 	{
