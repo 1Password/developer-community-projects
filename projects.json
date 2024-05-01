@@ -233,6 +233,7 @@
 		"author": "shyim",
 		"url": "https://github.com/shyim/idea-1password",
 		"description": "Integrate 1Password into Intellij-based IDEs.",
+		"date": "2022-08-13",
 		"tags": ["ide", "cli", "kotlin"]
 	},
 	{
