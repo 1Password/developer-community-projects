@@ -133,6 +133,7 @@
 		"author": "amadotejada",
 		"url": "https://github.com/amadotejada/unopass",
 		"description": "A convenient Python module that allows you to retrieve secrets from the 1Password CLI.",
+		"date": "2022-06-26",
 		"tags": ["python", "cli"]
 	},
 	{
