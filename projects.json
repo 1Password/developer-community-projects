@@ -223,6 +223,7 @@
 		"author": "jjorissen52",
 		"url": "https://github.com/jjorissen52/env-vault",
 		"description": "Synchronize your local environment from a secrets vault.",
+		"date": "2022-04-17",
 		"tags": ["env", "cli", "npm", "macos", "linux", "typescript"]
 	},
 	{
