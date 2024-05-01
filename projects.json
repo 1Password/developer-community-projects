@@ -303,6 +303,7 @@
 		"author": "Rohan Nagar",
 		"url": "https://github.com/RohanNagar/op-connect-sdk-java",
 		"description": "An unofficial Java SDK for 1Password Connect.",
+		"date": "2021-04-15",
 		"tags": ["connect", "java", "sdk", "library"]
 	},
 	{
