@@ -203,6 +203,7 @@
 		"author": "yardnsm",
 		"url": "https://github.com/yardnsm/tmux-1password",
 		"description": "Access your 1Password login items within tmux!",
+		"date": "2018-04-24",
 		"tags": ["tmux", "cli", "jq"]
 	},
 	{
