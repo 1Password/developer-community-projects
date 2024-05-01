@@ -22,7 +22,7 @@ Your PR needs to include an update to the `projects.json` file to add a new obje
 - `author` (string) is required
 - `url` (string) is required, must be a URL, and the URL must not redirect
 - `description` (string) is optional
-- `date` (string) is required, and must be in the format "YYYY-MM-DD"
+- `createdAt` (string) is required, and must be in the format "YYYY-MM-DD"
 - `tags` ([]string) is required
 
 Plaintext strings should not contain URLs, emojis, angle brackets, or any non-printing characters. Please ensure changes match existing code formatting.

@@ -6,7 +6,7 @@
 		"author": "Simon Sickle",
 		"url": "https://blog.simonsickle.com/1password-meets-git",
 		"description": "Securing your life in a digital safe deposit box",
-		"date": "2022-09-15",
+		"createdAt": "2022-09-15",
 		"tags": ["git", "ssh"]
 	},
 	{
@@ -16,7 +16,7 @@
 		"author": "Louise Findlay",
 		"url": "https://levelup.gitconnected.com/the-awesome-new-1password-feature-for-developers-to-secure-and-manage-your-secrets-b583e47e8693",
 		"description": "How 1Password secrets automation will help secure, update & sync your developer secrets",
-		"date": "2022-07-12",
+		"createdAt": "2022-07-12",
 		"tags": ["ide", "vs code", "secret reference", "remote"]
 	},
 	{
@@ -25,7 +25,7 @@
 		"title": "SSH key management with 1Password",
 		"author": "Horst Gutmann",
 		"url": "https://zerokspot.com/weblog/2022/07/24/ssh-keys-1password/",
-		"date": "2022-07-24",
+		"createdAt": "2022-07-24",
 		"tags": ["ssh"]
 	},
 	{
@@ -35,7 +35,7 @@
 		"author": "Sean Boult",
 		"url": "https://dev.to/hacksore/using-1password-cli-for-secrets-locally-326e",
 		"description": "Secrets are the backbone of how developers work in today's data-driven and service world.",
-		"date": "2022-06-09",
+		"createdAt": "2022-06-09",
 		"tags": ["cli", "secret reference", "env"]
 	},
 	{
@@ -44,7 +44,7 @@
 		"title": "How to use 1Password to share local secrets",
 		"author": "Joe Mainwaring",
 		"url": "https://dev.to/theaccordance/how-to-use-1password-to-share-local-secrets-434d",
-		"date": "2022-09-22",
+		"createdAt": "2022-09-22",
 		"tags": ["cli", "secret reference", "env"]
 	},
 	{
@@ -53,7 +53,7 @@
 		"title": "Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI",
 		"author": "Moncef Belyamani",
 		"url": "https://dev.to/monfresh/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli-2ge5",
-		"date": "2022-09-07",
+		"createdAt": "2022-09-07",
 		"tags": ["automation", "ruby", "cli", "github", "keyboard maestro"]
 	},
 	{
@@ -63,7 +63,7 @@
 		"author": "David Sánchez",
 		"url": "https://dev.to/d4vsanchez/use-1password-ssh-agent-in-wsl-2j6m",
 		"description": "You can use 1Password's SSH Agent in WSL, and it's not that complicated.",
-		"date": "2022-11-06",
+		"createdAt": "2022-11-06",
 		"tags": ["ssh", "wsl", "windows"]
 	},
 	{
@@ -73,7 +73,7 @@
 		"author": "Tinkerwell",
 		"url": "https://tinkerwell.app/blog/how-to-set-up-the-1password-ssh-agent-for-secure-ssh-connections",
 		"description": "Make sure that no application can grab your private SSH key and share it with someone else who then has access to all your servers.",
-		"date": "2022-11-25",
+		"createdAt": "2022-11-25",
 		"tags": ["ssh"]
 	},
 	{
@@ -83,7 +83,7 @@
 		"author": "Randall Hand",
 		"url": "https://www.yeraze.com/post/1password-github-ssh-keys-on-windows",
 		"description": "The most recent version of 1Password from Agilebits had added some great new features, and one I particularly love is SSH Keys.",
-		"date": "2022-11-25",
+		"createdAt": "2022-11-25",
 		"tags": ["ssh", "windows", "github"]
 	},
 	{
@@ -93,7 +93,7 @@
 		"author": "Anthony Dellavecchia",
 		"url": "https://www.twilio.com/blog/use-your-fingerprint-with-1password-to-authenticate-twilio-cli",
 		"description": "I'd like to highlight a 1Password Shell Plugin that makes authentication with the Twilio CLI as easy as scanning your fingerprint.",
-		"date": "2022-12-08",
+		"createdAt": "2022-12-08",
 		"tags": ["shell-plugin", "twilio"]
 	},
 	{
@@ -103,7 +103,7 @@
 		"author": "Kai Armstrong",
 		"url": "https://about.gitlab.com/blog/2022/12/07/introducing-the-gitlab-cli/",
 		"description": "We want to integrate GitLab with the tools our developers already use and love.",
-		"date": "2022-12-07",
+		"createdAt": "2022-12-07",
 		"tags": ["shell-plugin", "gitlab"]
 	},
 	{
@@ -113,7 +113,7 @@
 		"author": "mrjones2014",
 		"url": "https://github.com/mrjones2014/op.nvim",
 		"description": "1Password for Neovim! Built using the 1Password CLI, Go, and Lua.",
-		"date": "2022-07-30",
+		"createdAt": "2022-07-30",
 		"tags": ["ide", "cli", "neovim", "lua", "go"]
 	},
 	{
@@ -123,7 +123,7 @@
 		"author": "workloads",
 		"url": "https://github.com/workloads/workspaces",
 		"description": "Terraform-managed Terraform Cloud (TFC) Workspaces.",
-		"date":"2022-08-23",
+		"createdAt":"2022-08-23",
 		"tags": ["terraform", "hashicorp", "cli"]
 	},
 	{
@@ -133,7 +133,7 @@
 		"author": "amadotejada",
 		"url": "https://github.com/amadotejada/unopass",
 		"description": "A convenient Python module that allows you to retrieve secrets from the 1Password CLI.",
-		"date": "2022-06-26",
+		"createdAt": "2022-06-26",
 		"tags": ["python", "cli"]
 	},
 	{
@@ -143,7 +143,7 @@
 		"author": "twpayne",
 		"url": "https://github.com/twpayne/chezmoi",
 		"description": "Manage your dotfiles across multiple diverse machines, securely.",
-		"date": "2018-10-31",
+		"createdAt": "2018-10-31",
 		"tags": ["dotfiles", "cli", "windows", "macos", "linux"]
 	},
 	{
@@ -153,7 +153,7 @@
 		"author": "jscarle",
 		"url": "https://github.com/jscarle/OnePassword.NET",
 		"description": "A .NET wrapper for the 1Password command-line tool op.exe.",
-		"date":"2022-08-21",
+		"createdAt":"2022-08-21",
 		"tags": ["csharp", "c#", "cli", "dotnet", ".net"]
 	},
 	{
@@ -163,7 +163,7 @@
 		"author": "zcutlip",
 		"url": "https://github.com/zcutlip/pyonepassword",
 		"description": "A Python API to query a 1Password account using the 'op' command-line tool.",
-		"date": "2019-08-07",
+		"createdAt": "2019-08-07",
 		"tags": ["python", "cli"]
 	},
 	{
@@ -173,7 +173,7 @@
 		"author": "chrisns",
 		"url": "https://github.com/chrisns/kubectl-passman",
 		"description": "kubectl plugin that provides the missing link/glue between common password managers and kubectl.",
-		"date": "2019-09-23",
+		"createdAt": "2019-09-23",
 		"tags": ["kubectl", "cli", "kubernetes", "go"]
 	},
 	{
@@ -183,7 +183,7 @@
 		"author": "anasinnyk",
 		"url": "https://github.com/anasinnyk/terraform-provider-onepassword",
 		"description": "Terraform provider for 1Password.",
-		"date": "2018-11-27",
+		"createdAt": "2018-11-27",
 		"tags": ["terraform", "cli", "go"]
 	},
 	{
@@ -193,7 +193,7 @@
 		"author": "tymscar",
 		"url": "https://github.com/tymscar/runelite-1password-plugin",
 		"description": "A plugin that lets you automatically login into your Runescape account in Runelite! ",
-		"date": "2023-01-05",
+		"createdAt": "2023-01-05",
 		"tags": ["runelite", "cli"]
 	},
 	{
@@ -203,7 +203,7 @@
 		"author": "yardnsm",
 		"url": "https://github.com/yardnsm/tmux-1password",
 		"description": "Access your 1Password login items within tmux!",
-		"date": "2018-04-24",
+		"createdAt": "2018-04-24",
 		"tags": ["tmux", "cli", "jq"]
 	},
 	{
@@ -213,7 +213,7 @@
 		"author": "alexanderflink",
 		"url": "https://github.com/alexanderflink/envop",
 		"description": "A CLI for syncing environment variables using 1Password.",
-		"date": "2022-08-30",
+		"createdAt": "2022-08-30",
 		"tags": ["rust", "cli", "npm"]
 	},
 	{
@@ -223,7 +223,7 @@
 		"author": "jjorissen52",
 		"url": "https://github.com/jjorissen52/env-vault",
 		"description": "Synchronize your local environment from a secrets vault.",
-		"date": "2022-04-17",
+		"createdAt": "2022-04-17",
 		"tags": ["env", "cli", "npm", "macos", "linux", "typescript"]
 	},
 	{
@@ -233,7 +233,7 @@
 		"author": "shyim",
 		"url": "https://github.com/shyim/idea-1password",
 		"description": "Integrate 1Password into Intellij-based IDEs.",
-		"date": "2022-08-13",
+		"createdAt": "2022-08-13",
 		"tags": ["ide", "cli", "kotlin"]
 	},
 	{
@@ -243,7 +243,7 @@
 		"author": "HashiCorp",
 		"url": "https://www.youtube.com/watch?v=fL3QDWJTTOg",
 		"description": "In this talk, we'll explore how to use 1Password CLI to bootstrap secrets for tools such as Terraform.",
-		"date": "2022-12-13",
+		"createdAt": "2022-12-13",
 		"tags": ["terraform", "hashicorp"]
 	},
 	{
@@ -253,7 +253,7 @@
 		"author": "1Password",
 		"url": "https://vimeo.com/686844942",
 		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
-		"date": "2022-03-10",
+		"createdAt": "2022-03-10",
 		"tags": ["ssh"]
 	},
 	{
@@ -263,7 +263,7 @@
 		"author": "1Password",
 		"url": "https://vimeo.com/686845596",
 		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
-		"date": "2022-03-10",
+		"createdAt": "2022-03-10",
 		"tags": ["cli"]
 	},
 	{
@@ -273,7 +273,7 @@
 		"author": "Gitpod",
 		"url": "https://www.youtube.com/watch?v=u2aCOtMqtc4",
 		"description": "In this Gitpod Community Office Hours, 1Password Developer Floris van der Grinten talks about using 1Password to sign Git commits",
-		"date": "2022-11-17",
+		"createdAt": "2022-11-17",
 		"tags": ["git", "ssh"]
 	},
 	{
@@ -283,7 +283,7 @@
 		"author": "Chris Biscardi",
 		"url": "https://www.youtube.com/shorts/t3pZyyj3OUE",
 		"description": "In this Short, Chris shows us how to store and access your secrets using secret references.",
-		"date": "2023-01-07",
+		"createdAt": "2023-01-07",
 		"tags": ["secret reference", "env"]
 	},
 	{
@@ -293,7 +293,7 @@
 		"author": "Thilina Ratnayake",
 		"url": "https://tratnayake.dev/how-to-securely-work-with-secrets-during-development",
 		"description": "Incorporating the features of enterprise-grade secret management systems into local development processes.",
-		"date": "2023-02-27",
+		"createdAt": "2023-02-27",
 		"tags": ["secret reference", "env", "cli", "dotfiles"]
 	},
 	{
@@ -303,7 +303,7 @@
 		"author": "Rohan Nagar",
 		"url": "https://github.com/RohanNagar/op-connect-sdk-java",
 		"description": "An unofficial Java SDK for 1Password Connect.",
-		"date": "2021-04-15",
+		"createdAt": "2021-04-15",
 		"tags": ["connect", "java", "sdk", "library"]
 	},
 	{
@@ -313,7 +313,7 @@
 		"author": "Lenin Alevski",
 		"url": "https://www.linkedin.com/pulse/securing-your-homelab-ssh-access-secrets-management-yubikeys-alevski/",
 		"description": "In this article I show the power of combining 1Password, Yubikeys and ansible for securing SSH access and managing secrets. Although this solution was implemented as a homelab project, it is 100% applicable to startups and small companies.",
-		"date": "2023-03-28",
+		"createdAt": "2023-03-28",
 		"tags": ["automation", "cli", "linux", "secret reference"]
 	},
 	{
@@ -323,7 +323,7 @@
 		"author": "Alfred Team",
 		"url": "https://github.com/alfredapp/1password-workflow/",
 		"description": "Search and open 1Password items with Alfred",
-		"date": "2022-04-23",
+		"createdAt": "2022-04-23",
 		"tags": ["alfred", "cli", "macos", "search"]
 	},
 	{
@@ -333,7 +333,7 @@
 		"author": "zifeo",
 		"url": "https://github.com/zifeo/lade",
 		"description": "Automatically load secrets from your preferred vault as environment variables, and clear them once your shell command is over.",
-		"date": "2023-02-01",
+		"createdAt": "2023-02-01",
 		"tags": ["cli", "shell", "env"]
 	},
 	{
@@ -343,7 +343,7 @@
 		"author": "guilhermedea",
 		"url": "https://github.com/guilhermedea/inserindo-segredos-com-o-1Password",
 		"description": "Guia básico em Português de como inserir segredos no código utilizando o 1Password",
-		"date": "2023-04-17",
+		"createdAt": "2023-04-17",
 		"tags": ["automation", "cli", "visual studio code", "secret reference"]
 	},
 	{
@@ -353,7 +353,7 @@
 		"author": "Ricard Bejarano",
 		"url": "https://github.com/ricardbejarano/go-onepassword",
 		"description": "Access 1Password from Golang code - no Connect server required",
-		"date": "2023-05-22",
+		"createdAt": "2023-05-22",
 		"tags": ["sdk", "go", "library", "cli"]
 	},
 	{
@@ -363,7 +363,7 @@
 		"author": "meisterlabs",
 		"url": "https://github.com/MeisterLabs/secrets-store-csi-driver-provider-1password",
 		"description": "Driver for retreiving 1password secrets using the secrets-store-csi interface for kubernetes, allowing mounting of 1password secrets in kubernetes pods",
-		"date": "2020-05-13",
+		"createdAt": "2020-05-13",
 		"tags": ["automation", "connect", "kubernetes", "go"]
 	},
 	{
@@ -373,7 +373,7 @@
 		"author": "Roberto Hidalgo",
 		"url": "https://github.com/unRob/joao",
 		"description": "A command-line configuration manager that keeps entries encoded as YAML in the filesystem, backed up to 1Password; syncs scrubbed copies to git and robots consume entries via 1Password Connect + Vault.",
-		"date": "2022-11-15",
+		"createdAt": "2022-11-15",
 		"tags": ["automation", "cli", "connect", "hashicorp", "vault", "go"]
 	},
 	{
@@ -383,7 +383,7 @@
 		"author": "Saeed Esmaili",
 		"url": "https://saeedesmaili.com/delete-unwanted-and-duplicated-items-on-1password/",
 		"description": "A simple guide to clean up a 1Password account by removing incorrect records and duplicates using bash scripting.",
-		"date": "2023-06-09",
+		"createdAt": "2023-06-09",
 		"tags": ["automation", "cli", "mac", "cleanup", "bash"]
 	}
 ]

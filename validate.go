@@ -21,7 +21,7 @@ type Project struct {
 	Author      string   `json:"author" validate:"required,plaintext"`
 	Url         string   `json:"url" validate:"required,url,stable_url"`
 	Description string   `json:"description" validate:"omitempty,plaintext"`
-	Date        string   `json:"date" validate:"required,datetime=2006-01-02"`
+	CreatedAt   string   `json:"createdAt" validate:"required,datetime=2006-01-02"`
 	Tags        []string `json:"tags" validate:"required,dive,plaintext"`
 }
 
