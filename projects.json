@@ -352,6 +352,7 @@
 		"author": "guilhermedea",
 		"url": "https://github.com/guilhermedea/inserindo-segredos-com-o-1Password",
 		"description": "Guia básico em Português de como inserir segredos no código utilizando o 1Password",
+		"date": "2023-04-17",
 		"tags": ["automation", "cli", "visual studio code", "secret reference"]
 	},
 	{
