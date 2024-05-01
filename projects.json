@@ -213,6 +213,7 @@
 		"author": "alexanderflink",
 		"url": "https://github.com/alexanderflink/envop",
 		"description": "A CLI for syncing environment variables using 1Password.",
+		"date": "2022-08-30",
 		"tags": ["rust", "cli", "npm"]
 	},
 	{
