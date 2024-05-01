@@ -123,6 +123,7 @@
 		"author": "workloads",
 		"url": "https://github.com/workloads/workspaces",
 		"description": "Terraform-managed Terraform Cloud (TFC) Workspaces.",
+		"date":"2022-08-23",
 		"tags": ["terraform", "hashicorp", "cli"]
 	},
 	{
