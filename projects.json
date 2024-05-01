@@ -323,6 +323,7 @@
 		"author": "Alfred Team",
 		"url": "https://github.com/alfredapp/1password-workflow/",
 		"description": "Search and open 1Password items with Alfred",
+		"date": "2022-04-23",
 		"tags": ["alfred", "cli", "macos", "search"]
 	},
 	{
