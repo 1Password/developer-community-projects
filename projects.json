@@ -193,6 +193,7 @@
 		"author": "tymscar",
 		"url": "https://github.com/tymscar/runelite-1password-plugin",
 		"description": "A plugin that lets you automatically login into your Runescape account in Runelite! ",
+		"date": "2023-01-05",
 		"tags": ["runelite", "cli"]
 	},
 	{
