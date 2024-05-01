@@ -21,7 +21,7 @@ type Project struct {
 	Author      string   `json:"author" validate:"required,plaintext"`
 	Url         string   `json:"url" validate:"required,url,stable_url"`
 	Description string   `json:"description" validate:"omitempty,plaintext"`
-	Date        string   `json:"date" validate:"omitempty,date_for_article_video"`
+	Date        string   `json:"date" validate:"required,datetime=2006-01-02"`
 	Tags        []string `json:"tags" validate:"required,dive,plaintext"`
 }
 
@@ -71,9 +71,6 @@ func main() {
 	})
 	validate.RegisterValidation("stable_url", func(fl validator.FieldLevel) bool {
 		return StableUrl(fl, client)
-	})
-	validate.RegisterValidation("date_for_article_video", func(fl validator.FieldLevel) bool {
-		return ArticleVideoDate(fl, validate)
 	})
 
 	validatingJSON, _ := json.MarshalIndent(validatedProjects, "", "	")
@@ -168,15 +165,6 @@ func NoHtmlChars(fl validator.FieldLevel) bool {
 	re := regexp.MustCompile(`[<|>]`)
 
 	return !re.MatchString(value)
-}
-
-func ArticleVideoDate(fl validator.FieldLevel, validate *validator.Validate) bool {
-	project := fl.Parent().Interface().(Project)
-	if project.Category == "article" || project.Category == "video" {
-		return validate.Var(project.Date, "datetime=2006-01-02") == nil
-	}
-
-	return true
 }
 
 func StableUrl(fl validator.FieldLevel, client http.Client) bool {
