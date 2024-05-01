@@ -143,6 +143,7 @@
 		"author": "twpayne",
 		"url": "https://github.com/twpayne/chezmoi",
 		"description": "Manage your dotfiles across multiple diverse machines, securely.",
+		"date": "2018-10-31",
 		"tags": ["dotfiles", "cli", "windows", "macos", "linux"]
 	},
 	{
