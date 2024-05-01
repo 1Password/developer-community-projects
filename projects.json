@@ -153,6 +153,7 @@
 		"author": "jscarle",
 		"url": "https://github.com/jscarle/OnePassword.NET",
 		"description": "A .NET wrapper for the 1Password command-line tool op.exe.",
+		"date":"2022-08-21",
 		"tags": ["csharp", "c#", "cli", "dotnet", ".net"]
 	},
 	{
