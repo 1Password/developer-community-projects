@@ -362,6 +362,7 @@
 		"author": "Ricard Bejarano",
 		"url": "https://github.com/ricardbejarano/go-onepassword",
 		"description": "Access 1Password from Golang code - no Connect server required",
+		"date": "2023-05-22",
 		"tags": ["sdk", "go", "library", "cli"]
 	},
 	{
