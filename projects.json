@@ -183,6 +183,7 @@
 		"author": "anasinnyk",
 		"url": "https://github.com/anasinnyk/terraform-provider-onepassword",
 		"description": "Terraform provider for 1Password.",
+		"date": "2018-11-27",
 		"tags": ["terraform", "cli", "go"]
 	},
 	{
