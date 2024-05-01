@@ -342,6 +342,7 @@
 		"author": "zifeo",
 		"url": "https://github.com/zifeo/lade",
 		"description": "Automatically load secrets from your preferred vault as environment variables, and clear them once your shell command is over.",
+		"date": "2023-02-01",
 		"tags": ["cli", "shell", "env"]
 	},
 	{
