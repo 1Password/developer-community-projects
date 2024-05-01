@@ -173,6 +173,7 @@
 		"author": "chrisns",
 		"url": "https://github.com/chrisns/kubectl-passman",
 		"description": "kubectl plugin that provides the missing link/glue between common password managers and kubectl.",
+		"date": "2019-09-23",
 		"tags": ["kubectl", "cli", "kubernetes", "go"]
 	},
 	{
