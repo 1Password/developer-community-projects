@@ -403,7 +403,7 @@
 		"author": "Tejitha Raju (Pulumi) and Diana Esteves (Pulumi)",
 		"url": "https://www.pulumi.com/blog/pulumi-esc-public-preview-for-1password-support/",
 		"description": "A guide on using 1Password as a secret manager backend with Pulumi ESC.",
-		"createdAt": "2024-04-29",
+		"createdAt": "2024-03-27",
 		"tags": ["pulumi", "esc", "service accounts", "secret reference"]
 	},
 	{
@@ -412,7 +412,7 @@
 		"title": "Announcing 1Password Support for Pulumi ESC in Public Preview",
 		"author": "Zois Pagoulatos (zoispag)",
 		"url": "https://github.com/helmfile/vals?tab=readme-ov-file#1password",
-		"description": "A integration for using 1Password as a secret backend with vals",
+		"description": "An integration for using 1Password as a secret backend with vals",
 		"createdAt": "2024-06-04",
 		"tags": ["vals", "1password sdks", "secret reference", "service accounts"]
 	}
