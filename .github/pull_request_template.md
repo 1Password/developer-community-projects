@@ -20,6 +20,7 @@
 - [ ] SSH Agent
 - [ ] Events Reporting API
 - [ ] Passage or passwordless
+- [ ] SDKs
 - [ ] Something else... <!-- Please describe below -->
 
 #### URL
