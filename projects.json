@@ -409,7 +409,7 @@
 	{
 		"category": "repo",
 		"id": "helmfile-vals-1password-support",
-		"title": "Announcing 1Password Support for Pulumi ESC in Public Preview",
+		"title": "Vals",
 		"author": "Zois Pagoulatos (zoispag)",
 		"url": "https://github.com/helmfile/vals?tab=readme-ov-file#1password",
 		"description": "An integration for using 1Password as a secret backend with vals",
