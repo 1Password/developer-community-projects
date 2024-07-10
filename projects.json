@@ -397,6 +397,16 @@
 		"tags": ["postman", "vault", "service accounts", "secret reference", "1password sdks"]
 	},
 	{
+		"category": "article",
+		"id": "1password-support-for-pulumi-esc",
+		"title": "Announcing 1Password Support for Pulumi ESC in Public Preview",
+		"author": "Tejitha Raju (Pulumi) and Diana Esteves (Pulumi)",
+		"url": "https://www.pulumi.com/blog/pulumi-esc-public-preview-for-1password-support/",
+		"description": "A guide on using 1Password as a secret manager backend with Pulumi ESC.",
+		"createdAt": "2024-04-29",
+		"tags": ["pulumi", "esc", "service accounts", "secret reference"]
+	},
+	{
 		"category": "repo",
 		"id": "helmfile-vals-1password-support",
 		"title": "Announcing 1Password Support for Pulumi ESC in Public Preview",
