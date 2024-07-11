@@ -385,5 +385,35 @@
 		"description": "A simple guide to clean up a 1Password account by removing incorrect records and duplicates using bash scripting.",
 		"createdAt": "2023-06-09",
 		"tags": ["automation", "cli", "mac", "cleanup", "bash"]
+	},
+	{
+		"category": "article",
+		"id": "integrate-postman-vault-with-1password",
+		"title": "Integrate Postman Vault with 1Password",
+		"author": "Postman",
+		"url": "https://learning.postman.com/docs/sending-requests/postman-vault/1password/",
+		"description": "An integration for using 1Password as a secret manager backend with Postman Vault.",
+		"createdAt": "2024-04-29",
+		"tags": ["postman", "vault", "service accounts", "secret reference", "1password sdks"]
+	},
+	{
+		"category": "article",
+		"id": "1password-support-for-pulumi-esc",
+		"title": "Announcing 1Password Support for Pulumi ESC in Public Preview",
+		"author": "Tejitha Raju (Pulumi) and Diana Esteves (Pulumi)",
+		"url": "https://www.pulumi.com/blog/pulumi-esc-public-preview-for-1password-support/",
+		"description": "An integration for using 1Password as a secret manager backend with Pulumi ESC.",
+		"createdAt": "2024-03-27",
+		"tags": ["pulumi", "esc", "service accounts", "secret reference"]
+	},
+	{
+		"category": "repo",
+		"id": "helmfile-vals-1password-support",
+		"title": "Vals",
+		"author": "Zois Pagoulatos (zoispag)",
+		"url": "https://github.com/helmfile/vals?tab=readme-ov-file#1password",
+		"description": "An integration for using 1Password as a secret backend with vals",
+		"createdAt": "2024-06-04",
+		"tags": ["vals", "1password sdks", "secret reference", "service accounts"]
 	}
 ]
