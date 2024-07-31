@@ -88,6 +88,16 @@
 	},
 	{
 		"category": "article",
+		"id": "dellavecchia-authenticate-the-twilio-cli",
+		"title": "Use Your Fingerprint with 1Password to Authenticate the Twilio CLI",
+		"author": "Anthony Dellavecchia",
+		"url": "https://www.twilio.com/en-us/blog/use-your-fingerprint-with-1password-to-authenticate-twilio-cli",
+		"description": "I'd like to highlight a 1Password Shell Plugin that makes authentication with the Twilio CLI as easy as scanning your fingerprint.",
+		"createdAt": "2022-12-08",
+		"tags": ["shell-plugin", "twilio"]
+	},
+	{
+		"category": "article",
 		"id": "armstrong-gitlab-cli",
 		"title": "Put `glab` at your fingertips with the GitLab CLI",
 		"author": "Kai Armstrong",
