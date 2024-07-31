@@ -248,26 +248,6 @@
 	},
 	{
 		"category": "video",
-		"id": "ssh-agent-demo",
-		"title": "1Password Developer Tools: SSH Agent Demo",
-		"author": "1Password",
-		"url": "https://vimeo.com/686844942",
-		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
-		"createdAt": "2022-03-10",
-		"tags": ["ssh"]
-	},
-	{
-		"category": "video",
-		"id": "cli-2-demo",
-		"title": "1Password Developer Tools: CLI 2.0 Demo",
-		"author": "1Password",
-		"url": "https://vimeo.com/686845596",
-		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
-		"createdAt": "2022-03-10",
-		"tags": ["cli"]
-	},
-	{
-		"category": "video",
 		"id": "gitpod-commit-signing",
 		"title": "Community Office Hours: Git Signing Commits with 1Password",
 		"author": "Gitpod",
