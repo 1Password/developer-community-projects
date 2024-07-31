@@ -88,16 +88,6 @@
 	},
 	{
 		"category": "article",
-		"id": "dellavecchia-authenticate-the-twilio-cli",
-		"title": "Use Your Fingerprint with 1Password to Authenticate the Twilio CLI",
-		"author": "Anthony Dellavecchia",
-		"url": "https://www.twilio.com/en-us/blog/use-your-fingerprint-with-1password-to-authenticate-twilio-cli",
-		"description": "I'd like to highlight a 1Password Shell Plugin that makes authentication with the Twilio CLI as easy as scanning your fingerprint.",
-		"createdAt": "2022-12-08",
-		"tags": ["shell-plugin", "twilio"]
-	},
-	{
-		"category": "article",
 		"id": "armstrong-gitlab-cli",
 		"title": "Put `glab` at your fingertips with the GitLab CLI",
 		"author": "Kai Armstrong",
@@ -245,26 +235,6 @@
 		"description": "In this talk, we'll explore how to use 1Password CLI to bootstrap secrets for tools such as Terraform.",
 		"createdAt": "2022-12-13",
 		"tags": ["terraform", "hashicorp"]
-	},
-	{
-		"category": "video",
-		"id": "ssh-agent-demo",
-		"title": "1Password Developer Tools: SSH Agent Demo",
-		"author": "1Password",
-		"url": "https://vimeo.com/686844942",
-		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
-		"createdAt": "2022-03-10",
-		"tags": ["ssh"]
-	},
-	{
-		"category": "video",
-		"id": "cli-2-demo",
-		"title": "1Password Developer Tools: CLI 2.0 Demo",
-		"author": "1Password",
-		"url": "https://vimeo.com/686845596",
-		"description": "Introducing 1Password Developer Tools: a new way for developers to simplify and secure development workflows.",
-		"createdAt": "2022-03-10",
-		"tags": ["cli"]
 	},
 	{
 		"category": "video",
