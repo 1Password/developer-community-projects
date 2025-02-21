@@ -1,5 +1,15 @@
 [
 	{
+		"category": "repo",
+		"id": "object-relational-manager-for-1password",
+		"title": "A ORM implementation for 1Password",
+		"author": "ilke-dev",
+		"url": "https://github.com/Ilke-dev/op-orm",
+		"description": "A Object Relational Manager (ORM) wrapper around the onepassword-sdk-python",
+		"createdAt": "2025-02-18",
+		"tags": ["python", "sdk", "orm", "cli", "devops", "automation", "kubernetes", "k8s"]
+	},
+	{
 		"category": "article",
 		"id": "sickle-1password-meets-git",
 		"title": "1Password Meets Git",
