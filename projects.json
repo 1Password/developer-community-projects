@@ -415,5 +415,15 @@
 		"description": "Lightweight connector that uses 1Password Server items to drive SSH, SCP, RSYNC and SFTP sessions.\n\nThis tool fetches connection data (host, user, SSH key or password) from 1Password via the 1Password CLI and runs the requested remote command using the appropriate authentication method.",
 		"createdAt": "2025-08-20",
 		"tags": ["1p-connector", "augcampos", "1password", "bash", "script", "ssh", "scp", "rsync", "sftp", "ssh auth", "key", "fix", "SSH server six-key limit", "Too many authentication failures"]
+	},
+	{
+		"category": "repo",
+		"id": "dorothy",
+		"title": "Dorothy: A dotfile ecosystem",
+		"author": "Benjamin Lupton (balupton)",
+		"url": "https://github.com/bevry/dorothy",
+		"description": "Shell extensions for installing and configuring 1Password Desktop `setup-util-1password`, CLI `setup-util-1password-cli`, Git/GPG/SSH `setup-git`, and secret fetching and environment exposure `secret`.",
+		"createdAt": "2013-03-29",
+		"tags": ["1p-connector", "balupton", "bevry", "1password", "cli", "1password-cli", "bash", "script", "ssh", "gpg", "ssh", "op", "op-ssh-sign", "op-ssh-agent", "op-sock", "secret", "env", "macos", "linux", "wsl", "windows", "dotfiles", "dotfile"]
 	}
 ]
