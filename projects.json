@@ -415,5 +415,15 @@
 		"description": "Lightweight connector that uses 1Password Server items to drive SSH, SCP, RSYNC and SFTP sessions.\n\nThis tool fetches connection data (host, user, SSH key or password) from 1Password via the 1Password CLI and runs the requested remote command using the appropriate authentication method.",
 		"createdAt": "2025-08-20",
 		"tags": ["1p-connector", "augcampos", "1password", "bash", "script", "ssh", "scp", "rsync", "sftp", "ssh auth", "key", "fix", "SSH server six-key limit", "Too many authentication failures"]
+	},
+	{
+		"category": "repo",
+		"id": "hassio-1password-addon",
+		"title": "Home Assistant App: 1Password Secrets Storage",
+		"author": "Alex Bordun (borales)",
+		"url": "https://github.com/Borales/hassio-addons/tree/main/hassio-1password-addon",
+		"description": "The 1Password Secrets Storage app seamlessly integrates 1Password with Home Assistant, enabling automatic synchronization of your secrets from 1Password vaults directly into your Home Assistant `secrets.yaml` file.",
+		"createdAt": "2026-02-10",
+		"tags": ["home assistant", "add-on", "sync", "1password", "automation", "service accounts", "github"]
 	}
 ]
