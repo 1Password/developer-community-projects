@@ -415,5 +415,15 @@
 		"description": "Lightweight connector that uses 1Password Server items to drive SSH, SCP, RSYNC and SFTP sessions.\n\nThis tool fetches connection data (host, user, SSH key or password) from 1Password via the 1Password CLI and runs the requested remote command using the appropriate authentication method.",
 		"createdAt": "2025-08-20",
 		"tags": ["1p-connector", "augcampos", "1password", "bash", "script", "ssh", "scp", "rsync", "sftp", "ssh auth", "key", "fix", "SSH server six-key limit", "Too many authentication failures"]
+	},
+	{
+		"category": "repo",
+		"id": "claude-1password",
+		"title": "Claude-1Password: keep secrets out of Claude Code chats with 1Password",
+		"author": "Lucas Saldanha Werneck (lucas-saldanha-werneck)",
+		"url": "https://github.com/lucas-saldanha-werneck/Claude-1Password",
+		"description": "Claude Code plugin built on the 1Password CLI. A hook erases pasted API keys and passwords before the model sees them; op-store opens a native dialog with a reveal toggle and pipes the value to op item create as JSON (never on the command line); op-env resolves op:// secret references once and launches Claude Code with the TTY preserved. macOS, Windows and Linux dialogs.",
+		"createdAt": "2026-09-11",
+		"tags": ["cli", "secret reference", "env", "macos", "windows", "linux", "claude-code", "ai"]
 	}
 ]
